@@ -26,12 +26,3 @@ This is test2.
 ------------
 test from jane to check dev   2017-3-31
 
-------------------------------------------
-
-This is a test.
-
-update by Jane on 30th June,2017
-
--------------------------------------------
-
-This is test2.
