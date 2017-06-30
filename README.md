@@ -26,3 +26,5 @@ This is test2.
 ------------
 test from jane to check dev   2017-3-31
 
+----------
+Again， test to see if can merge to master after branch protection set-up.
